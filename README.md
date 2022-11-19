@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louka
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning IOT
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me loukagauthier55@gmail.com
 
 <!---
