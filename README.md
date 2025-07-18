@@ -1,19 +1,19 @@
-# Bienvenue sur mon Profil GitHub
+# 👋 Hi there, I'm Louka!
 
-## À Propos de Moi
+I'm a passionate **software developer** with a strong interest in **mobile development using Flutter**. I love building clean, efficient, and user-friendly applications. Whether it's front-end, back-end, or full-stack work, I enjoy tackling new challenges and continuously improving my skills.
 
-Je suis un passionné d'informatique et de l’apprentissage de nouvelles technologies. En ce moment je m’intéresse à différentes technologies web tels que .NET,  Angular ou au Progressive Web Apps. 
+## Projects I'm Proud Of
 
-## Projets Principaux
+- [JustFlipACoin](https://play.google.com/store/apps/details?id=com.loukag.just_flip_a_coin) - [Heads or tails mobile application. Created in flutter]
+- [PDFToolkit](https://apps.microsoft.com/detail/9NQSNBHZW382?hl=neutral&gl=CA&ocid=pdpshare) - [A Window app offering a host of tools for editing PDF files]
+- [loukag.com](https://github.com/LoukaG/loukag.com) - [LoukaG.com is my personal website. Designed and developed by myself]
 
-- [UNACIEM](https://github.com/LoukaG/UNACIEM) - [Le projet UNACIEM est un site web one-page dédié à l'entreprise UNACIEM en Angular]
-- [HabitFlow](https://github.com/LoukaG/habitflow) - [HabitFlow is a Flutter application designed to help you track and maintain good habits]
-- [loukag.com](https://github.com/LoukaG/loukag.com) - [LoukaG.com est mon site web personnel]
-
-## Réseaux Sociaux
+## Let's Connect
+Feel free to check out my repositories and follow me for updates! If you'd like to connect or collaborate, don’t hesitate to reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/loukagauthier/)
 - [Twitter](https://twitter.com/loukag05)
+- loukagauthier55@gmail.com
 
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question. Merci de votre visite !
+---
 
