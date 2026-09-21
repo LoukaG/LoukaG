@@ -11,8 +11,7 @@ I'm a passionate **software developer** with a strong interest in **mobile devel
 ## Let's Connect
 Feel free to check out my repositories and follow me for updates! If you'd like to connect or collaborate, don’t hesitate to reach out.
 
-- [LinkedIn](https://www.linkedin.com/in/loukagauthier/)
-- [Twitter](https://twitter.com/loukag05)
+- [LinkedIn](https://www.linkedin.com/in/loukagauthier)
 - loukagauthier55@gmail.com
 
 ---
